@@ -13,4 +13,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with a VCR Player](j01/)
+[Read about my experience with a VCR](j01/)
