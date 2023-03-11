@@ -1,4 +1,4 @@
-# My Experance with a VCR
+# My Experience with a VCR
 
 By Joel Collazo    3-10-23
 
