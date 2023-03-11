@@ -10,4 +10,7 @@ Now VHS is a physical media that you have to rewind after viewing it. So in this
 
 Okay so moving on to actually playing the VHS. So now this is a much easier and satisfying thing to do. Now that it's been rewound and it's ready to be viewed you just click the play button. It is one of the larger buttons in front of the player and even has a little notch on top of it. Since it is the button you're going to press the most it does have a nice click to it. By clicking the play button now of course it just simply plays the VHS out the HDMI to the TV. Finally this is the best part of it all having the highest quality possible from an old VHS tape.
 
+Now finally time to hit play and enjoy the movie. I really do like the Player and the fact that it can display an HDMI image of all the VHS I have in my collection. I have VHS from the 70’s from Japan that now looks so crystal clear.
+
 Overall there aren't that many buttons on the outside of the player. But there are some design choices that could have been better. From the point of where it will automatically select the DVD drive is really annoying. Following that by the poor choice of descriptions above the buttons for fast forward and the rewind functions. It is interesting that this was supposed to be a very high end player yet it has these flaws. For the user interface it is good but surely does need some improvements for it to be perfect.
+
