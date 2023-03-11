@@ -21,9 +21,12 @@ Now finally time to hit play and enjoy the movie. I really do like the Player an
 
 Overall there aren't that many buttons on the outside of the player. But there are some design choices that could have been better. From the point of where it will automatically select the DVD drive is really annoying. Following that by the poor choice of descriptions above the buttons for fast forward and the rewind functions. It is interesting that this was supposed to be a very high end player yet it has these flaws. For the user interface it is good but surely does need some improvements for it to be perfect.
 
+
 ![last](https://user-images.githubusercontent.com/123515727/224468618-84487c0a-ecd0-49a4-8dcb-69a56e91b7be.jpg)
 Urusei Yatsura OVA 1 Inaba the Dream Maker 1987
 
+
 ![this_one](https://user-images.githubusercontent.com/123515727/224468792-60efe264-8c5b-44aa-a3e9-4ec4720fdb4b.gif)
+
 Daicon IV Opening Animation 1983
 
