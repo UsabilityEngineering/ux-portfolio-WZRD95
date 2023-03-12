@@ -9,7 +9,8 @@ whole industry
 
 ## UX Team Project
 
-Coming soon.
+* **[Debt Supervisor](https://usabilityengineering.github.io/DebtSupervisor/)**
+
 
 ## UX Journal
 
