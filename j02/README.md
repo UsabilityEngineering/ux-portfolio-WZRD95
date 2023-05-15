@@ -1,6 +1,6 @@
 # My Experience with a VCR Ver. 2.0
 
-By Joel Collazo    3-10-23
+By Joel Collazo    5-14-2023
 
 When I got home the other day I was excited to open my newest package from japan. In this package there was a new VHS tape I ordered from Japan. I go to put it in the player and enjoy my latest purchase. As I sat there I noticed the picture was a bit off from my liking hence I wanted to mess with the settings. Only one problem: how do I get to the settings?
 
