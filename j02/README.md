@@ -6,7 +6,7 @@ When I got home the other day I was excited to open my newest package from japan
 
 My first instinct was to click on the sub menu button then nothing happened. This was confusing since my first instinct was to click on that to go to the menu and fix the settings. This is due to the standards of modern TVs and even phones now have a main menu. Although  that is true for today but back in the day there was really no way to do that. When there is a **standard** it's when a large group of companies adopt an idea that is really easy to use and remember for the user to have. Then after this being my first failed attempt I then tried something else.
 
-![First_image](https://github.com/UsabilityEngineering/ux-portfolio-WZRD95/assets/123515727/aa98bcf1-8648-4f9c-aa96-5dc60e64b7bd)
+![First_image](https://github.com/UsabilityEngineering/ux-portfolio-WZRD95/assets/123515727/1f3d447b-7a4b-4a36-8d94-3caec27764a4)
 
 When looking at the remote there is another button that says display. Then when I clicked on it again nothing really happened. This is good since I know that if I can't use that button in the menu then nothing happens. This is really bad visibility. It makes me think that there is nothing going on. When there is bad **visibility** like in this case it is because there is no message bar that comes up saying if i can or can't do the action. It is so the user can have feedback for doing the right or wrong thing.
 
