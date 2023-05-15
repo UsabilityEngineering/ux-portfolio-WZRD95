@@ -15,4 +15,4 @@ whole industry
 
 [Read about my experience with a VCR](j01/)
 
-[Read about my experience with a VCR Ver. 2.0](j02/)
+[Read about my experience with a VCR Ver 2.0](j02/)
