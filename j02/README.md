@@ -4,10 +4,9 @@ By Joel Collazo    5-14-2023
 
 When I got home the other day I was excited to open my newest package from japan. In this package there was a new VHS tape I ordered from Japan. I go to put it in the player and enjoy my latest purchase. As I sat there I noticed the picture was a bit off from my liking hence I wanted to mess with the settings. Only one problem: how do I get to the settings?
 
-My first instinct was to click on the sub menu button then nothing happened. This was confusing since my first instinct was to click on that to go to the menu and fix the settings. This is due to the standards of modern TVs and even phones now have a main menu. Although  that is true for today but back in the day there was really no way to do that. When there is a **standard** it's when a large group of companies adopt an idea that is really easy to use and remember for the user to have. Then after this being my first failed attempt I then tried something else.
-
 ![First_image](https://github.com/UsabilityEngineering/ux-portfolio-WZRD95/assets/123515727/1f3d447b-7a4b-4a36-8d94-3caec27764a4)
 
+My first instinct was to click on the sub menu button then nothing happened. This was confusing since my first instinct was to click on that to go to the menu and fix the settings. This is due to the standards of modern TVs and even phones now have a main menu. Although  that is true for today but back in the day there was really no way to do that. When there is a **standard** it's when a large group of companies adopt an idea that is really easy to use and remember for the user to have. Then after this being my first failed attempt I then tried something else.
 
 ![Second_image](https://github.com/UsabilityEngineering/ux-portfolio-WZRD95/assets/123515727/09ce92b4-238a-47f1-8f8c-116d24ebc188)
 
