@@ -14,3 +14,5 @@ whole industry
 ## UX Journal
 
 [Read about my experience with a VCR](j01/)
+
+[Read about my experience with a VCR Part 2.0](j02/)
